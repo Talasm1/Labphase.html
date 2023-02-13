@@ -1,0 +1,97 @@
+body {
+    background-color: rgb(212, 184, 196);
+}
+
+#titre {
+    color: mediumvioletred;
+
+}
+
+#bouquet {
+    width: 50%;
+    border: 5px double purple;
+    padding: 20px 40px;
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(247, 0, 255);
+    color: yellow;
+    justify-content: space-between;
+    float: right;
+
+}
+
+#bouquet a {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif color purple;
+    /*  font-family: Verdana, Geneva, Tahoma, sans-serif;*/
+}
+
+#Epanouissementfloral {
+    width: 20%;
+    border: 5px double rgb(223, 19, 104);
+    padding: 20px 40px;
+    margin: 50px;
+    background-color: purple;
+    color: yellow;
+    text-align: center;
+    clear: both;
+    float: calc(50%);
+}
+
+#floraison {
+    width: 80%;
+    border: 5px double rgb(189, 51, 166);
+    padding: 20px 40px;
+    margin: 50px;
+    background-color: palevioletred;
+    color: yellow;
+    text-align: center;
+    clear: both;
+
+}
+
+#detente {
+    width: 20%;
+    border: 5px double rgb(230, 130, 16);
+    padding: 20px 40px;
+    margin: 50px;
+    background-color: rgb(233, 22, 145);
+    color: yellow;
+    text-align: center;
+    clear: both;
+}
+
+.model-content {
+
+    width: 5%;
+    color: brown;
+}
+
+#les5sens {
+    width: 20%;
+    border: 5px double rgb(223, 51, 8);
+    padding: 20px 40px;
+    margin: 50px;
+    background-color: rgb(141, 12, 113);
+    color: yellow;
+    text-align: center;
+    clear: both;
+}
+
+#contact {
+    width: 20%;
+    border: 5px double orangered;
+    padding: 20px 40px;
+    margin: 50px;
+    background-color: purple;
+    color: yellow;
+    text-align: center;
+    clear: both;
+    float: right;
+}
+
+#fin {
+    width: 20%;
+    padding: 20px 40px;
+    margin: 50px;
+
+}
